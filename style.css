@@ -218,4 +218,5 @@ input::placeholder{ color:var(--muted2); }
   .view{ padding:20px; }
   .card{ padding:18px; }
   .big{ font-size:32px; }
+
 }
