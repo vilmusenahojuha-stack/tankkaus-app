@@ -25,7 +25,7 @@ const STORAGE = {
   };
 
   const DEFAULT_CFG = {
-  sheetsUrl: "https://script.google.com/macros/s/AKfycbzrkZq5yOUCXspBLfiOzGh-5f8nf1enThMilrFyuiHXDAFsZ1ljn9oVXPczBQI_22cwoQ/exec",
+  sheetsUrl: "https://script.google.com/macros/s/AKfycbwAQLEynS-b-3PgpaTeVTQ9rIHgLood2jcX0WxmRthsXa9ZBW2QSSeWfvlD-qrxcA40/exec",
   fuelUrl: "https://vilmusenahojuha-stack.github.io/Tankkaus/",
   plates: [],
 };
